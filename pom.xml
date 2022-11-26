@@ -14,7 +14,7 @@
     <version>1.0.2-SNAPSHOT</version>
 
     <name>spring-boot-2-hello-world</name>
-    <description>A simple Spring Boot app to send hello world message to a user</description>
+    <description>A simple Spring Boot 2.x app to send hello world message to a user</description>
 
     <properties>
         <java.version>1.8</java.version>

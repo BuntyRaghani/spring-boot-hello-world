@@ -1,6 +1,6 @@
 # Spring Boot Hello World
 
-**A simple Spring Boot app to send hello world message to a user**
+**A simple Spring Boot 2.x app to send hello world message to a user**
 
 ## How to Run Application
 
@@ -14,7 +14,7 @@
 
 - **From jar file**
   Create a jar file using '**mvn clean install**' command and then execute
-  <br/>```java -jar target/hello-world-1.0.1-SNAPSHOT.jar```
+  <br/>```java -jar target/spring-boot-2-hello-world-1.0.2-SNAPSHOT.jar```
 
 
 - **Directly from IDE**
