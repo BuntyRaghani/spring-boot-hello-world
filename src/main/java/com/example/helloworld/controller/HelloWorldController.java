@@ -10,4 +10,11 @@ public class HelloWorldController {
     public String sendGreetings() {
         return "Hello, World!";
     }
+
+    @GetMapping("/hello/linda")
+    public String sendGreetings() {
+        return "Hello, Linduska!";
+    }
+
+
 }
