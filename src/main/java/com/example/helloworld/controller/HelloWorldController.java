@@ -14,4 +14,9 @@ public class HelloWorldController {
     public String sendHi(){
         return "Hi";
     }
+    @GetMapping("/bugFix")
+    public String getInfoOnBugs(){
+        return "bug got fixed";
+    }
+
 }
