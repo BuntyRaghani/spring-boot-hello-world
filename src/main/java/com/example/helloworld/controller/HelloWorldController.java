@@ -10,4 +10,12 @@ public class HelloWorldController {
     public String sendGreetings() {
         return "Hello, World!";
     }
+    @GetMapping("/hi")
+    public String sendHi(){
+        return "Hi";
+    }
+    @GetMapping("/bugFix")
+    public String getInfoOnBugs(){
+        return "bug got fixed";
+    }
 }
