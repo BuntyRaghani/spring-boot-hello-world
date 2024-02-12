@@ -18,4 +18,5 @@ public class HelloWorldController {
     public String getInfoOnBugs(){
         return "bug got fixed";
     }
+
 }
