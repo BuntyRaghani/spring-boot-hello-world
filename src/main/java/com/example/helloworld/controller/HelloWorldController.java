@@ -18,6 +18,7 @@ public class HelloWorldController {
     public String getInfoOnBugs(){
         return "bug got fixed";
     }
+
     @GetMapping("/bugFix1")
     public String getInfoOnBugs1(){
         return "bug got fixed";
@@ -30,4 +31,5 @@ public class HelloWorldController {
     public String getInfoOnBugs4(){
         return "bug got fixed3";
     }
+
 }
