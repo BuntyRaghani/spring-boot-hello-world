@@ -113,7 +113,7 @@ under the License.
 
   
    <server>
-      <id>devops_kishor</id>
+      <id>devops_test</id>
       <username>admin</username>
       <password>admin@2024</password>
    </server>
