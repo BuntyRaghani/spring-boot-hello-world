@@ -45,5 +45,10 @@
             </plugin>
         </plugins>
     </build>
-
+ <distributionManagement>
+   <snapshotRepository>
+      <id>devops_kishor</id>
+      <url>http://13.201.39.237:8081/repository/devops_kishor</url>
+   </snapshotRepository>
+</distributionManagement>
 </project>
