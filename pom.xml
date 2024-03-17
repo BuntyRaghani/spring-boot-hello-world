@@ -45,5 +45,10 @@
             </plugin>
         </plugins>
     </build>
-
+ <distributionManagement>
+   <snapshotRepository>
+      <id>devops_test</id>
+      <url>http://13.235.48.170:8081/repository/devops_test</url>
+   </snapshotRepository>
+</distributionManagement>
 </project>
